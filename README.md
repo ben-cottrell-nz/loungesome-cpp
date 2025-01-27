@@ -3,6 +3,7 @@ A list of actually decent, actually used AND appreciated in the industry C++ lib
 
 ## Frameworks
 * [Boost](http://www.boost.org/) - One of the most highly regarded and expertly designed C++ library projects in the world.
+* [abseil](https://abseil.io/) - A set of libraries used by Google, which provide abstractions for newer versions of the STL. Backwards compatible to C++11.
 
 ## Benchmarking
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
@@ -23,6 +24,7 @@ A list of actually decent, actually used AND appreciated in the industry C++ lib
 * [Clang-Format](http://clang.llvm.org/docs/ClangFormat.html) - Highly integratable C/C++/Java/JavaScript/Objective-C/Protobuf code formatter from the Clang team.
 * [valgrind](http://valgrind.org/) - A programming tool for memory debugging, memory leak detection, and profiling.
 * [MSYS2](https://msys2.github.io/) - provide support to facilitate using the bash shell, Autotools, revision control systems and the like for building native Windows applications using MinGW-w64 toolchains.
+* [cppcheck](http://cppcheck.sourceforge.net/) - A static checker for leading memory bugs, which may be missed at compile time.
 
 ### Online compilers
 * [Coliru](http://coliru.stacked-crooked.com/) - Compile, link, run.
